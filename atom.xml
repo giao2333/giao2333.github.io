@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>大帅逼的blog</title>
+  
+  <subtitle>举世无双</subtitle>
+  <link href="http://godpeng.top/atom.xml" rel="self"/>
+  
+  <link href="http://godpeng.top/"/>
+  <updated>2020-12-10T13:01:31.773Z</updated>
+  <id>http://godpeng.top/</id>
+  
+  <author>
+    <name>天选之人</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>大学为何比你想象得累</title>
+    <link href="http://godpeng.top/2020/12/10/da-xue-sheng/"/>
+    <id>http://godpeng.top/2020/12/10/da-xue-sheng/</id>
+    <published>2020-12-10T11:48:36.000Z</published>
+    <updated>2020-12-10T13:01:31.773Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;一定要学会上课摸鱼。&quot;&gt;&lt;a href=&quot;#一定要学会上课摸鱼。&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="大学生活" scheme="http://godpeng.top/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="摸鱼" scheme="http://godpeng.top/tags/%E6%91%B8%E9%B1%BC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://godpeng.top/2020/11/24/hello-world/"/>
+    <id>http://godpeng.top/2020/11/24/hello-world/</id>
+    <published>2020-11-24T13:06:04.829Z</published>
+    <updated>2020-11-27T09:32:10.915Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
